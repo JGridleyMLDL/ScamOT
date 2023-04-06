@@ -1,3 +1,9 @@
+### OT Library
+The modified version can be found here:
+https://github.com/JGridleyMLDL/FGW
+I'm working on making it link in github, it goes in the "Papers" directory
+
+
 ### Data Files
 
 Anything for sushiswap is labeled with "sushi", all else is Uniswap V3 (I know this is bad lol, I'm fixing it)
